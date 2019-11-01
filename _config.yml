@@ -1,5 +1,8 @@
 # --- General options --- #
 
+# Theme
+theme: jekyll-theme-dinky
+
 # Name of website
 title: My website
 
