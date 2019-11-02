@@ -10,4 +10,4 @@ the project was its feature engineering, which I explain more in the [Medium pos
 where the project is displayed
 
 
-![Money and Politics](img/Visualization_5.png)
+![Money and Politics](/img/Visualization_5.png){: .center-block :}
